@@ -1,1 +1,1 @@
-./cub3d map.ber
+./cub3d map.cub
